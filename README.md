@@ -1,0 +1,1 @@
+Next.js + Module federation PWA
